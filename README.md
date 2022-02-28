@@ -7,7 +7,9 @@ In this project we are creating an end to end ETL pipeline. From **EXTRACT**ing 
 As a result of the ETL process we created and stored to tables:
 
 1. Movies Table
+
 ![movies](https://github.com/IrvingHdez/Movies-ETL/blob/main/Images/movies_query.png)
 
 2. Rating Table
+
 ![ratings](https://github.com/IrvingHdez/Movies-ETL/blob/main/Images/ratings_query.png)
